@@ -25,7 +25,7 @@ Customers may use voice recognition technology to communicate with technology si
 - Joke (Command: Tell me a joke). 
 
 ```
-                                                             LUNA
+                                                          LUNA
  
 pip install SpeechRecognition
 pip install tk
